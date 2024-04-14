@@ -7,8 +7,8 @@ theme = 'cuisine-book'
 enableGitInfo = true
 
 [params]
-  author = "Your Name"
-  description = "Describe about you"
+  author = "Assia & Brahim"
+  description = "Ce site fait office de livre de recettes pour nos différentes recettes maisons"
   # (Optional) Your logo in the header navbar which has to be stored in static folder.
   # If the logo is /static/logo.png then the path would be 'logo.png'
   logo = "logo.png"
